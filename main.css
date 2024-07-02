@@ -1,3 +1,23 @@
 table, tr, td{
     border: solid 1px black;
 }
+
+.largura{
+    background-color: hotpink;
+}
+
+#largSpine{
+    width: 200px;
+}
+
+#largSpine2{
+    width: 50px;
+}
+
+#largSpine3{
+    width: 120px;
+}
+
+#largSpine4{
+    width: 50px;
+}
